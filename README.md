@@ -1,4 +1,4 @@
-# Does preloading of modules make sense?
-An easy to implement technique relieving developers of bundling
+# Why cyclic dependencies are good
+Cyclic dependencies — a convenient feature of modern JavaScript
 
-Sample code for post https://marian-caikovski.medium.com/does-preloading-of-modules-make-sense-7c3ee9ccdd45 about the performance benefits of module preloading with link type="modulepreload"
+Sample code for post https://marian-caikovski.medium.com/cyclic-dependencies-a-convenient-feature-of-modern-javascript-eca7c07fe272 about uses cases of cyclic dependencies in modules
